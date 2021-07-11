@@ -1,0 +1,18 @@
+[submodule "single-price-grid-component"]
+	path = single-price-grid-component
+	url = git@github.com:Caresle/single-price-grid-component.git
+[submodule "article-preview-component"]
+	path = article-preview-component
+	url = git@github.com:Caresle/article-preview-component.git
+[submodule "stats-preview-card-component"]
+	path = stats-preview-card-component
+	url = git@github.com:Caresle/stats-preview-card-component.git
+[submodule "3-column-preview-card-component"]
+	path = 3-column-preview-card-component
+	url = git@github.com:Caresle/3-column-preview-card-component.git
+[submodule "profile-card-component"]
+	path = profile-card-component
+	url = git@github.com:Caresle/profile-card-component.git
+[submodule "social-media-dashboard"]
+	path = social-media-dashboard
+	url = git@github.com:Caresle/social-media-dashboard.git
