@@ -16,3 +16,6 @@
 [submodule "social-media-dashboard"]
 	path = social-media-dashboard
 	url = git@github.com:Caresle/social-media-dashboard.git
+[submodule "four-card-feature-section"]
+	path = four-card-feature-section
+	url = git@github.com:Caresle/four-card-feature-section.git
