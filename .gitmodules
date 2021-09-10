@@ -22,3 +22,6 @@
 [submodule "social-proof-section"]
 	path = social-proof-section
 	url = git@github.com:Caresle/social-proof-section.git
+[submodule "order-summary-card-solution"]
+	path = order-summary-card-solution
+	url = git@github.com:Caresle/order-summary-card-solution.git
