@@ -14,5 +14,6 @@ Links to all my frontend mentor challenges
 | Intro component | Newbie | [Live Preview](https://caresle.github.io/intro-component/) | [Link Repo](https://github.com/Caresle/intro-component) |
 | Single price grid | Newbie | [Live Preview](https://caresle.github.io/single-price-grid-component/) | [Link Repo](https://github.com/Caresle/single-price-grid-component) |
 | Ping single column | Newbie | [Live Preview](https://caresle.github.io/ping-coming-soon/) | [Link Repo](https://github.com/Caresle/ping-coming-soon) |
+| Huddle landing page | Newbie | [Live Preview](https://caresle.github.io/huddle-landing-page/) | [Link Repo](https://github.com/Caresle/huddle-landing-page) |
 | Tip Calculator | Junior | [Live Preview](https://caresle.github.io/tip-calculator/) | [Link Repo](https://github.com/Caresle/tip-calculator) |
 | Social Media Dashboard | Junior | [Live Preview](https://caresle.github.io/social-media-dashboard/) | [Link Repo](https://github.com/Caresle/social-media-dashboard) |
